@@ -1,2 +1,2 @@
-# PandaSpec_Motorsports
+# PandaSpec Motorsports
 PandaSpec
